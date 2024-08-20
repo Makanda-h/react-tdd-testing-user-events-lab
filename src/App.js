@@ -4,7 +4,7 @@ import NewsletterForm from "./components/NewsletterForm";
 function App() {
   return (
     <main>
-      <h1>Hi, I'm Pauline</h1>
+      <h1>Hi, I'm Makanda</h1>
       <img alt="My profile pic" src="https://via.placeholder.com/350" />
       <h2>About Me</h2>
       <p>
